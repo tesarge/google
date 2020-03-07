@@ -1,0 +1,75 @@
+.image-logo{
+  display: block;
+  margin: 0 auto;
+  width: auto;
+  padding-top: 109px;
+  }
+
+.main{
+  display: block;
+  margin: 0 auto;
+  border: 1px;
+  width: 100%;
+  padding-bottom:35;
+  position: absolute;
+  text-align: center;
+}
+
+.navigation{
+  display: block;
+  padding: 7px 20px;
+  float: right;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  }
+
+.signin{
+  padding: 7px 10px;
+  font-weight: bold;
+  color: white;
+  border-radius: 3px;
+  background-color: #4684ee;
+  text-decoration: none;
+}
+
+.navlink{
+  padding: 7px;
+  vertical-align: middle;
+  color: #737373;
+  text-decoration: none;
+}
+.searchform{
+  display: block;
+  position: absolute;
+  text-float: left;
+}
+
+form{
+  text-align: center;
+}
+
+input{
+  margin: 25px;
+  padding-top: 8px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  width: 500px;
+  border: 1px solid #e5e6e8;
+  box-shadow: 0 2px #d3d3d3;
+  font-size: 18px;
+  font-family: Arial;
+  outline: none;
+  text-indent: 0px;
+  border-radius: 20px;
+}
+
+.button{
+  border-radius: 3px;
+  border: none;
+  padding: 10px 15px;
+  font-family: Arial;
+}
+
+.button:hover{
+  border: solid 1px #d3d3d3;
+}
